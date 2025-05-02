@@ -5,7 +5,7 @@ Enthusiastic engineer with a Master’s degree in Computer Applications. Highly 
 
 ## 💻 Technical Skills
 ### Programming & Development
-Proficient in Eclipse and IntelliJ for code development.
+Proficient in Eclipse, VSCode and IntelliJ for code development.
 
 ### Project Management
 Experienced with VersionOne, Jira, Bugzilla, qTest, and ALM for tracking and quality assurance.
