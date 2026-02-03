@@ -24,6 +24,6 @@ I focus on delivering robust and maintainable code while fostering a culture of 
 
 ## 🌍 Languages
 English (Fluent)
-German (A2 Level – Basic communication skills, continuously improving)
+German (B1 Level – Basic communication skills, continuously improving)
 
 📫 Let's Connect: Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sarika25/) or check out my work below! 🚀
